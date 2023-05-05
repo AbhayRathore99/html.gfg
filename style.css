@@ -1,0 +1,47 @@
+.circle1{
+    height:100px ;
+    width:100px;
+    border: 50px solid
+    #2f8d46;
+    position: relative;
+    border-radius: 50%;
+    z-index: -1;
+}
+.circle2{
+    height:100px ;
+    width:100px;
+    border: 50px solid  #2f8d46;
+    position:absolute ;
+    top:250px ;
+    left:699px;
+    z-index: -1;
+ 
+border-radius: 50%;
+}
+.logo{
+    margin-top:250px;
+    margin-left: 500px;
+    
+}
+.rec{
+    height:100px ;
+    width:150px;
+    border: 60px solid white ;
+   margin-top:-296px;
+   margin-left: -205px;
+    
+}
+.rec1{
+    height:100px ;
+    width:150px;
+    border: 60px solid white;
+   margin-top:-220px ;
+   margin-left: 329px;
+}
+.line{
+    height: 15px;
+    width: 379px;
+    background-color: #2f8d46 ;
+    margin-top:-px ;
+    margin-left:6px ;
+}
